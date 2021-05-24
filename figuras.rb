@@ -27,7 +27,7 @@ def iteration(shape, n = 0)
     return n
 end
 
-#variables del programa y ejecución
+#variables del programa
 shape = menu()
 num = iteration(shape)
 
